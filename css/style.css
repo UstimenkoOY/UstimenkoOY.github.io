@@ -175,9 +175,11 @@ td, th {
 }
 .register {
 	position: absolute;
-	width: 100%;
+	max-width: 80%;
+	width: 80%;
 	height: 50px;
-	background-color: white;
+	min-width: 550px;
+	background-color: black;
 	margin-top: 650px;
 }
 iframe {
