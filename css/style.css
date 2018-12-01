@@ -173,3 +173,14 @@ td, th {
 }
 .portfolio4 a {
 }
+.register {
+	position: absolute;
+	width: 200%;
+	height: 50px;
+	background-color: white;
+	margin-left: -50%;
+	margin-top: 650px;
+}
+iframe {
+	border-width : 0px;
+}
