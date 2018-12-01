@@ -175,7 +175,7 @@ td, th {
 }
 .register {
 	position: absolute;
-	width: 200%;
+	width: 100%;
 	height: 50px;
 	background-color: white;
 	margin-left: -50%;
